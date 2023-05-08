@@ -1,0 +1,6 @@
+/__pycache__
+/data
+/outputs
+/runs
+best_model.pth
+NeuralNetwork.pth
